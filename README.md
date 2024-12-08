@@ -71,4 +71,4 @@ Body (JSON):
 -------------------
 URL: http://localhost:8080/orders
 Method: GET
-![image](https://github.com/user-attachments/assets/1935ffcd-4e85-4124-9051-ad43b7c5098c)
+(https://github.com/user-attachments/assets/1935ffcd-4e85-4124-9051-ad43b7c5098c)
